@@ -1,0 +1,4 @@
+1. git status - To check the status of files that needs to be in sync with the repository.
+2. git add . - add all the files into staging area
+3. git commit -m - add message and commit changes
+4. git push
